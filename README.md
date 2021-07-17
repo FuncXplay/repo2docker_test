@@ -1,2 +1,2 @@
 # repo2docker_test
-repo2docker test repo
+Basic repo with `requirements.txt` which can be built with `jupyter repo2docker` command.
