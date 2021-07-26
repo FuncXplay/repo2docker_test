@@ -4,5 +4,5 @@ dependencies:
   - python>=3.9
   - numpy
   - anaconda
-  - ndctools
+  - tensorflow
   - pip
