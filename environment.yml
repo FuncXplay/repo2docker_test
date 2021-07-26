@@ -1,0 +1,8 @@
+# run: conda env create --file environment.yml
+name: test-repo2docker
+dependencies:
+  - python>=3.9
+  - numpy
+  - anaconda
+  - ndctools
+  - pip
